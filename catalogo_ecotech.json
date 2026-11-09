@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Panel Monocristalino",
+        "modelo": "ECO-SUN-500",
+        "costo_unitario": 240.0,
+        "stock": 30,
+        "tipo_dispositivo": "Panel Solar Fotovoltaico",
+        "potencia_nominal_w": 500,
+        "eficiencia_porcentaje": 22.5
+    },
+    {
+        "nombre": "Panel Policristalino",
+        "modelo": "ECO-POLY-350",
+        "costo_unitario": 160.0,
+        "stock": 45,
+        "tipo_dispositivo": "Panel Solar Fotovoltaico",
+        "potencia_nominal_w": 350,
+        "eficiencia_porcentaje": 18.0
+    }
+]

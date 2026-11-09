@@ -1,0 +1,15 @@
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Base de datos local de Django
+db.sqlite3
+
+# Configuraciones locales
+.vscode/
+.env
